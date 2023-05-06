@@ -1,0 +1,5 @@
+prompt for input
+
+print left pyramid
+
+change left to right by print the space first then hash
